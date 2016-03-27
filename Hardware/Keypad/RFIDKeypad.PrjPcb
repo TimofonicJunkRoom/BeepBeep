@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for RFIDKeypad
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -213,62 +213,130 @@ DocumentPath=Project Outputs for RFIDKeypad\BOM\Bill of Materials-KeypadSchemati
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for RFIDKeypad\NC Drill\KeypadPCB.DRR
+DocumentPath=Project Outputs for RFIDKeypad\BOM\Bill of Materials-RFIDKeypad.xls
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for RFIDKeypad\Gerber\KeypadPCB.EXTREP
+DocumentPath=Project Outputs for RFIDKeypad\Design Rule Check - KeypadPCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for RFIDKeypad\Gerber\KeypadPCB.GBL
+DocumentPath=Project Outputs for RFIDKeypad\KeypadPCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for RFIDKeypad\Gerber\KeypadPCB.GBO
+DocumentPath=Project Outputs for RFIDKeypad\NC Drill\KeypadPCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for RFIDKeypad\Gerber\KeypadPCB.GBP
+DocumentPath=Project Outputs for RFIDKeypad\Gerber\KeypadPCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for RFIDKeypad\Gerber\KeypadPCB.GBS
+DocumentPath=Project Outputs for RFIDKeypad\KeypadPCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for RFIDKeypad\Gerber\KeypadPCB.GM11
+DocumentPath=Project Outputs for RFIDKeypad\Gerber\KeypadPCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for RFIDKeypad\Gerber\KeypadPCB.GTL
+DocumentPath=Project Outputs for RFIDKeypad\KeypadPCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for RFIDKeypad\Gerber\KeypadPCB.GTO
+DocumentPath=Project Outputs for RFIDKeypad\Gerber\KeypadPCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for RFIDKeypad\Gerber\KeypadPCB.GTP
+DocumentPath=Project Outputs for RFIDKeypad\KeypadPCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for RFIDKeypad\Gerber\KeypadPCB.GTS
+DocumentPath=Project Outputs for RFIDKeypad\Gerber\KeypadPCB.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for RFIDKeypad\NC Drill\KeypadPCB.LDP
+DocumentPath=Project Outputs for RFIDKeypad\KeypadPCB.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for RFIDKeypad\Gerber\KeypadPCB.REP
+DocumentPath=Project Outputs for RFIDKeypad\Gerber\KeypadPCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for RFIDKeypad\Gerber\KeypadPCB.RUL
+DocumentPath=Project Outputs for RFIDKeypad\KeypadPCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument16]
+DocumentPath=Project Outputs for RFIDKeypad\Gerber\KeypadPCB.GM11
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for RFIDKeypad\KeypadPCB.GM11
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for RFIDKeypad\Gerber\KeypadPCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for RFIDKeypad\KeypadPCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for RFIDKeypad\Gerber\KeypadPCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for RFIDKeypad\KeypadPCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for RFIDKeypad\Gerber\KeypadPCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for RFIDKeypad\KeypadPCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for RFIDKeypad\Gerber\KeypadPCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for RFIDKeypad\KeypadPCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for RFIDKeypad\KeypadPCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for RFIDKeypad\NC Drill\KeypadPCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for RFIDKeypad\Gerber\KeypadPCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for RFIDKeypad\KeypadPCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for RFIDKeypad\Gerber\KeypadPCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for RFIDKeypad\KeypadPCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for RFIDKeypad\KeypadPCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument33]
 DocumentPath=Project Outputs for RFIDKeypad\NC Drill\KeypadPCB.TXT
 DItemRevisionGUID=
 
@@ -279,16 +347,15 @@ ConstraintFileCount=0
 ReleaseItemId=
 CurrentRevision=
 Variant=[No Variations]
-GenerateBOM=1
 OutputJobsCount=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for RFIDKeypad
 
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=HP LaserJet P2050 Series PCL6
+TargetPrinter=Glennan 321 Left Color Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=PCADNetlist
 OutputName1=PCAD Netlist
@@ -305,22 +372,12 @@ OutputName3=VHDL File
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-OutputType4=XSpiceNetlist
-OutputName4=XSpice Netlist
-OutputDocumentPath4=
-OutputVariantName4=
-OutputDefault4=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP LaserJet P2050 Series PCL6
+TargetPrinter=Glennan 321 Left Color Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -429,17 +486,11 @@ OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
 PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType18=PDF3D
-OutputName18=PDF3D
-OutputDocumentPath18=
-OutputVariantName18=[No Variations]
-OutputDefault18=0
-PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=HP LaserJet P2050 Series PCL6
+TargetPrinter=Glennan 321 Left Color Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -461,7 +512,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HP LaserJet P2050 Series PCL6
+TargetPrinter=Glennan 321 Left Color Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -533,7 +584,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=HP LaserJet P2050 Series PCL6
+TargetPrinter=Glennan 321 Left Color Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -570,7 +621,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=HP LaserJet P2050 Series PCL6
+TargetPrinter=Glennan 321 Left Color Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -750,7 +801,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=HP LaserJet P2050 Series PCL6
+TargetPrinter=Glennan 321 Left Color Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Vault's components states check
@@ -789,7 +840,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=HP LaserJet P2050 Series PCL6
+TargetPrinter=Glennan 321 Left Color Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
